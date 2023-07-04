@@ -1,0 +1,94 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    height: 100%;
+}
+
+.menu{
+    width: 100%;
+    font-size: 22px;
+    font-family: sans-serif;
+    background: rgb(22, 22, 182);
+    color: white;
+    padding: 20px 0;
+}
+.menu div{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.menu p{
+    display: inline;
+    padding-right: 25px;
+
+}
+.menu span{
+    margin: 0 30px;
+}
+.botao{
+    text-decoration: none;
+    color: rgb(22, 22, 182);
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: 0 6px;
+    padding: 7px 15px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.img-capa{
+    width: 55.5%;
+    padding:  300px;
+    background-image: url('img/capa.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+h2{
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+.secao-conteudo{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.secao-conteudo p{
+    line-height: 25px ;
+    color: rgb(48, 47, 47);
+}
+.image-secao1{
+    width: 100%;
+}
+
+.galeria{
+    display: flex;
+    overflow: auto;
+    margin: 0 auto 20px auto;
+}
+.galeria img{
+    width: 315px;
+    margin: 10px;
+}
+.image-secao2{
+    box-shadow: 10px 10px 10px #939393;
+}
+.informacao{
+    margin: 15px auto;
+}
+.rodape {
+    width: 100%;
+    background: #4710c1;
+    text-align: center;
+    padding: 12px 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: white;
+
+}
