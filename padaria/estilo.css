@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(252, 242, 230);
+    width: 700px;
+    margin: 0 auto;
+}
+
+.secao {
+    width: 700px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.menu img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.menu a {
+    color: rgb(104, 94, 52);
+    padding: 10px;
+}
+
+h1 {
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid saddlebrown;
+    text-align: center;
+}
+
+h2 {
+    font-weight: normal;
+    text-align: center;
+    color: chocolate;
+    margin-top: 10px;
+}
+
+.sobre img {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.produtos {
+    background-color: #de8237;
+    padding-bottom: 20px;
+}
+
+.produtos img {
+    width: 400px;
+}
+
+h3 {
+    color: #ffffff;
+    padding-top: 30px;
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 10px;
+
+}
+
+p {
+    color: #ffffff;
+    line-height: 30px;
+    font-size: 18px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contato,
+h3,
+p {
+    color: black;
+
+}
+
+span {
+    font-weight: bold;
+}
+
+.rodape {
+    background-color: #de8237;
+    width: 100%;
+    padding: 10px;
+}
